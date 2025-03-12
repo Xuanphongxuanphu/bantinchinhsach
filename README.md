@@ -1,5 +1,4 @@
-# 💬 Chatbot Anh Lập Trình
+# 💬 Chatbot thuỳ linh
 
-Chương trình chatbot được tạo ra từ Anh Lập Trình (https://anhlaptrinh.vn/)
-
+Chương trình chatbot được tạo ra từ dương xuân phúc phòng chính sách Cục BĐTW
 
